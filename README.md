@@ -7,7 +7,7 @@ Si has realizado la práctica1, y tienes la clave SSH configurada, puedes ir dir
 ## Prerrequisitos
 
 ### Crear una cuenta en [GitHub](https://github.com/). 
-Para ello, puedes usar tu correo personal, el de *@correo.ugr.es* o el de *@go.ugr.es*.
+Para ello, puedes usar tu correo personal, el de *@correo.ugr.es* o el de *@go.ugr.es*
 
 
 ### 1. Añadir tu clave SSH a GitHub
